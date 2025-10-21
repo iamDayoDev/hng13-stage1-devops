@@ -43,6 +43,7 @@ Run the script interactively
 
 ```bash
 bash -x ./deploy1.sh
+```
 
 ## Server IP - 54.183.140.52
 
